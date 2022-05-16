@@ -1,0 +1,3 @@
+Link para downloado do Git xxxx
+
+O GitBash é um terminal extendido para otimizar o uso do git.
